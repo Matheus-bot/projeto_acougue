@@ -10,7 +10,6 @@
     width: 100%;
     margin-bottom: 1%;
     background-color: rgb(152, 199, 209);
-   /* background-color: ;*/
 }
 
 #nav{
@@ -39,8 +38,14 @@ img{
 }
 p{
     text-indent: 50px;
-    text-align: center;
+    text-align: left;
 }
 h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h3{
     text-align: center;
 }
