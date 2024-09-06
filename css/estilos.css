@@ -33,6 +33,9 @@
     margin-top: 10px;
         height: 40px;
     }
+body{
+    background-color: rgb(90, 27, 27);
+}
 img{
     margin: 0 auto;
 }
