@@ -9,7 +9,7 @@
     float: left;
     width: 100%;
     margin-bottom: 1%;
-    background-color: rgb(152, 199, 209);
+    background-color: rgb(248, 140, 39);
 }
 
 #nav{
@@ -22,11 +22,11 @@
 #content{
     float: left;
     width: 79%;
-    background-color: rgb(98, 202, 129);
+    background-color: rgb(207, 79, 4);
 }
 
 #footer{
-    background-color: #98FB98;
+    background-color: #e4be79
     text-align: center;
     width: 100%;
     float: left;
